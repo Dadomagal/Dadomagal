@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is Iago and I am currently an IT Management student, looking for my first internship or freelance opportunities. I have a great interest in data analysis and have previous experience in financial analysis, having worked as a financial analyst. Below are my main highlights:
+
+-Learning: Python, SQL and Git.
+-Looking for: Collaborate on data analysis and back-end development projects.
+  
 
 <!--
 **Dadomagal/Dadomagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
