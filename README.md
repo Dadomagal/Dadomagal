@@ -14,7 +14,7 @@ My name is Iago and I am currently an IT Management student, looking for my firs
 <div>
   <a href="https://github.com/Dadomagal">
     <img height="180em" src="https://github-readme-stats-taupe-alpha.vercel.app/api?username=Dadomagal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"> 
-    <img height="180em" src="https://github-readme-stats-taupe-alpha.vercel.app/api/top-langs/?username=Dadomagal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"> 
+    <img height="180em" src="https://github-readme-stats-taupe-alpha.vercel.app/api/top-langs/?username=Dadomagal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=3600"> 
 </div>
     
 <div style="display: inline_block; text-align: center;">
