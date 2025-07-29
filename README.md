@@ -28,6 +28,8 @@ My name is Iago and I am currently an IT Management student, looking for my firs
 ## Stacks
     
 <div style="display: inline_block; text-align: center;">
+  <img align="center" alt="Iago-CSharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Iago-DotNetCore" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Iago-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Iago-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Iago-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
